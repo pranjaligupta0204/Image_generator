@@ -1,4 +1,4 @@
-# 🧠 AI Image Generator
+# AI Image Generator
 
 This project is an **AI-powered image generation web app** built using **Stable Diffusion**, **PyTorch**, and **Gradio**.  
 It allows users to enter a text prompt and instantly generate a high-quality, AI-generated image.  
@@ -6,7 +6,7 @@ The model runs on GPU for fast inference and supports customization like creativ
 
 ---
 
-## 🚀 Overview
+## Overview
 
 The **AI Image Generator** provides an intuitive web interface where users can:
 - Enter a **text prompt** describing the desired image.
@@ -17,7 +17,7 @@ The **AI Image Generator** provides an intuitive web interface where users can:
 
 ---
 
-## 🧩 Key Features
+## Key Features
 
 - **Text-to-Image Generation:** Creates realistic or artistic images from text prompts.
 - **Negative Prompt Support:** Lets users exclude elements (e.g., “blurry”, “low quality”).
@@ -29,7 +29,7 @@ The **AI Image Generator** provides an intuitive web interface where users can:
 
 ---
 
-## 🧠 Model Information
+## Model Information
 
 - **Base Model:** [`runwayml/stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5)  
 - **Framework:** [Diffusers](https://github.com/huggingface/diffusers)  
@@ -37,7 +37,7 @@ The **AI Image Generator** provides an intuitive web interface where users can:
 
 ---
 
-## ⚙️ Tech Stack & Libraries Used
+## Tech Stack & Libraries Used
 
 ### **Core Frameworks**
 - `torch` – PyTorch for model execution and GPU acceleration  
